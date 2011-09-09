@@ -1,0 +1,1 @@
+This project demonstrates how to integrate Mogade into an XNA project. The `Mogade Xna Demo.docx` file has more detailed information.
